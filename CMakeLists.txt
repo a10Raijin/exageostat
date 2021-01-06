@@ -24,7 +24,7 @@
 ###############################################################################
 
 #Minimum CMAKE version.
-cmake_minimum_required(VERSION 3.2.3)
+cmake_minimum_required(VERSION 3.2.3 FATAL_ERROR)
 
 
 
